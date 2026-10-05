@@ -1,6 +1,8 @@
 # The Living Map: Spatial Memory for Emergency Robots
 
-**TSYP14 Technical Challenge, IEEE RAS × IEEE AESS Tunisia. Phase 1 submission.**
+**TSYP14 Technical Challenge, IEEE RAS × IEEE AESS Tunisia. Phase 1 submission. Team: The Architects.**
+
+📄 [Technical report (PDF)](https://drive.google.com/file/d/13rTJQrDnf328_f-pRUue5T5RUfhjJhbb/view?usp=drive_link) · 🎬 [Demo video — nominal mission](https://drive.google.com/file/d/13wUDenrrhLHDqce1rXyJ-KN1JE30OrPQ/view?usp=drive_link) · ⚠️ [Failure-scenario videos](https://drive.google.com/drive/folders/1OTsqPcSpbyh9yzK0YaqPVnGFP-aULrra?usp=drive_link)
 
 A two-robot system that gives an unmapped, GPS-denied building its own memory:
 
@@ -61,6 +63,8 @@ pytest          # 21 tests: packet/CRC/aging, frame maths, LoRa framing + ARQ, f
 
 ## Demo videos
 
+Watch online: [nominal mission](https://drive.google.com/file/d/13wUDenrrhLHDqce1rXyJ-KN1JE30OrPQ/view?usp=drive_link) · [failure scenarios folder](https://drive.google.com/drive/folders/1OTsqPcSpbyh9yzK0YaqPVnGFP-aULrra?usp=drive_link). The same files are in `media/`.
+
 | Video | Shows |
 |---|---|
 | [`media/demo.mp4`](media/demo.mp4) | Nominal mission end to end (66 s) |
@@ -97,7 +101,7 @@ tests/                 pytest suite
 
 ## Documentation
 
-* [Technical report (PDF)](report/report.pdf)
+* Technical report: [Google Drive](https://drive.google.com/file/d/13rTJQrDnf328_f-pRUue5T5RUfhjJhbb/view?usp=drive_link) · [PDF in this repo](report/report.pdf)
 * [Beacon message & signal design](docs/beacon_spec.md)
 * [Frame translation](docs/frame_translation.md)
 * [Outside Network Area](docs/ona_design.md)
