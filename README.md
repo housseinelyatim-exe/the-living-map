@@ -107,9 +107,3 @@ tests/                 pytest suite
 * [Outside Network Area](docs/ona_design.md)
 * [Implementation plan](docs/implementation_plan.md)
 * [Failure cases](docs/failure_cases.md)
-
-## Team
-
-**The Architects**
-
-Contact the organisers: aess@ieee.tn · ras@ieee.tn
